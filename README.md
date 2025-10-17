@@ -1,16 +1,12 @@
-# cadastro_livros
+# Cadastro de Livros
 
-A new Flutter project.
+Atividade Prática de Desenvolvimento Mobile
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Feito utilizando os conceitos de: Estrutura modular de projeto Flutter; Utilização do Hive como banco de dados local; Criação de temas personalizados com ThemeData; Uso de Drawer para navegação; Manipulação de estados e listas dinâmicas.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://docs.google.com/document/d/1SKJ97gGgjbOj-QssyMoAPKQLMMKhdivGjytPD6D5elU/edit?tab=t.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
